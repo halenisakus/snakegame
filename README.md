@@ -1,9 +1,6 @@
 
 A vanilla JavaScript game with tutorial
 
-
-I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
-
 A vanilla JavaScript grid-based game | In this tutorial you will learn how to make a fully functional game of Snake.
 
 * project set up
