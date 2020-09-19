@@ -10,3 +10,7 @@ A vanilla JavaScript grid-based game | In this tutorial you will learn how to ma
 * arrow functions
 * forEach
 * setting time intervals and countdowns
+
+## Project Link
+
+[snake](https://codesandbox.io/s/github/halenisakus/snakegame)
